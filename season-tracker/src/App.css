@@ -1,0 +1,29 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: large;
+  font-style: italic;
+  background-color: rgb(197, 253, 235);
+  font-weight: bolder;
+}
+h1{
+  color:rgb(207, 3, 180)
+}
+
+p{
+  color: rgb(229, 115, 185)
+}
+
+button{
+  color:palevioletred;
+  background-color: rgb(141, 254, 250);
+  margin: 8px;
+  padding: 12px 24px;
+  font-size: 20px;
+  font-weight: bold;
+ 
+}
+
+.season {
+  color:  rgb(207, 3, 180);
+  font-weight: bolder;
+}
